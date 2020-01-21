@@ -2,7 +2,7 @@
 using namespace std;
 vector<string> name;
 map<string,int> nameIndex;
-const static int maxn = 2020;
+const int maxn = 2020;
 int gang[maxn][maxn];
 int weightSum = 0,maxWeight = 0,head = 0,cnt = 0;
 int weight[maxn] = {0},vis[maxn] = {0};
