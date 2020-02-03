@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="PathOfEqualWeight" targetName="PathOfEqualWeight" />
+      <config projectName="DominantColor" targetName="DominantColor" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15558d17-d07c-4464-8045-defcfd4059ef" name="Default Changelist" comment="" />
+    <list default="true" id="95cd8569-22af-46ca-9f6a-120d44ecf23c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1XFfKdTSWfhySzlM2EC6ZroQsJV" />
+  <component name="ProjectId" id="1XHz6rS3MT7Ms5Q9OzXnsVSSI0s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,11 +34,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CountingOnes" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration name="PathOfEqualWeight" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PathOfEqualWeight" TARGET_NAME="PathOfEqualWeight" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PathOfEqualWeight" RUN_TARGET_NAME="PathOfEqualWeight">
+    <configuration name="DominantColor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DominantColor" TARGET_NAME="DominantColor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DominantColor" RUN_TARGET_NAME="DominantColor">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -49,13 +48,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="15558d17-d07c-4464-8045-defcfd4059ef" name="Default Changelist" comment="" />
-      <created>1580646700895</created>
+      <changelist id="95cd8569-22af-46ca-9f6a-120d44ecf23c" name="Default Changelist" comment="" />
+      <created>1580717635357</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580646700895</updated>
-      <workItem from="1580646702780" duration="10518000" />
-      <workItem from="1580715786128" duration="19000" />
+      <updated>1580717635357</updated>
+      <workItem from="1580717637244" duration="3002000" />
     </task>
     <servers />
   </component>
@@ -63,25 +61,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1580715803198">
+    <state width="1493" height="34" key="GridCell.Tab.0.bottom" timestamp="1580722441079">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580715803198" />
-    <state width="1493" height="510" key="GridCell.Tab.0.bottom" timestamp="1580659843436">
+    <state width="1493" height="34" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580722441079" />
+    <state width="1493" height="34" key="GridCell.Tab.0.center" timestamp="1580722441079">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="510" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580659843436" />
-    <state width="1493" height="510" key="GridCell.Tab.0.center" timestamp="1580659843436">
+    <state width="1493" height="34" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580722441079" />
+    <state width="1493" height="34" key="GridCell.Tab.0.left" timestamp="1580722441079">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="510" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580659843436" />
-    <state width="1493" height="510" key="GridCell.Tab.0.left" timestamp="1580659843436">
+    <state width="1493" height="34" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580722441079" />
+    <state width="1493" height="34" key="GridCell.Tab.0.right" timestamp="1580722441079">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="510" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580659843436" />
-    <state width="1493" height="510" key="GridCell.Tab.0.right" timestamp="1580659843436">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="510" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580659843436" />
+    <state width="1493" height="34" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580722441079" />
   </component>
 </project>

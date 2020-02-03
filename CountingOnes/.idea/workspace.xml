@@ -34,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -55,6 +56,7 @@
       <updated>1580471287294</updated>
       <workItem from="1580471288729" duration="226000" />
       <workItem from="1580471531468" duration="751000" />
+      <workItem from="1580715806889" duration="625000" />
     </task>
     <servers />
   </component>
