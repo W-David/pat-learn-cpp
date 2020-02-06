@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="RootOfAVLTree" targetName="RootOfAVLTree" />
+      <config projectName="SortWithSwapZero" targetName="SortWithSwapZero" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079abeee-bc4d-4bfe-981f-88477ccd99e9" name="Default Changelist" comment="" />
+    <list default="true" id="94d78511-7167-4bb4-b81c-98018c9eabf7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1XOBXOPNngIY7pmvFTrIZxOrhTe" />
+  <component name="ProjectId" id="1XQ6eXE5rMyStFK7o1ZmJKqezDA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +37,7 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration name="RootOfAVLTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RootOfAVLTree" TARGET_NAME="RootOfAVLTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RootOfAVLTree" RUN_TARGET_NAME="RootOfAVLTree">
+    <configuration name="SortWithSwapZero" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SortWithSwapZero" TARGET_NAME="SortWithSwapZero" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SortWithSwapZero" RUN_TARGET_NAME="SortWithSwapZero">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -48,13 +48,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="079abeee-bc4d-4bfe-981f-88477ccd99e9" name="Default Changelist" comment="" />
-      <created>1580907299968</created>
+      <changelist id="94d78511-7167-4bb4-b81c-98018c9eabf7" name="Default Changelist" comment="" />
+      <created>1580966066123</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580907299968</updated>
-      <workItem from="1580907301581" duration="9003000" />
-      <workItem from="1580966031941" duration="33000" />
+      <updated>1580966066123</updated>
+      <workItem from="1580966068233" duration="9922000" />
     </task>
     <servers />
   </component>
@@ -62,25 +61,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1580909487734">
+    <state x="504" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580966834977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580909487734" />
-    <state width="1493" height="26" key="GridCell.Tab.0.bottom" timestamp="1580917987495">
+    <state x="504" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580966834977" />
+    <state width="1493" height="75" key="GridCell.Tab.0.bottom" timestamp="1580980284707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="26" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580917987495" />
-    <state width="1493" height="26" key="GridCell.Tab.0.center" timestamp="1580917987495">
+    <state width="1493" height="75" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580980284707" />
+    <state width="1493" height="75" key="GridCell.Tab.0.center" timestamp="1580980284691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="26" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580917987495" />
-    <state width="1493" height="26" key="GridCell.Tab.0.left" timestamp="1580917987495">
+    <state width="1493" height="75" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580980284691" />
+    <state width="1493" height="75" key="GridCell.Tab.0.left" timestamp="1580980284691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="26" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580917987495" />
-    <state width="1493" height="26" key="GridCell.Tab.0.right" timestamp="1580917987495">
+    <state width="1493" height="75" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580980284691" />
+    <state width="1493" height="75" key="GridCell.Tab.0.right" timestamp="1580980284691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="26" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580917987495" />
+    <state width="1493" height="75" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580980284691" />
   </component>
 </project>
