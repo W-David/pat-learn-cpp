@@ -9,13 +9,12 @@ void dijkstra(int start){
     fill(vis,vis+max_n,0);
     fill(line,line+max_n,0);
     fill(pathSize,pathSize+max_n,0);
-    fill(pre,pre+max_n,-1);
+    fill(pre,pre+max_n,start);
     fill(dist,dist+max_n,INF);
     for(edge &it: net[start]) {
         int ns = it.first;
         dist[ns] = 1;
         line[ns] = it.second;
-        pre[ns] = start;
         pathSize[ns] = net[ns].size() + net[start].size();
     }
     vis[start] = true;
@@ -62,13 +61,15 @@ int main(){
         scanf("%d %d",&start,&end);
         dijkstra(start);
         printf("%d\n",dist[end]);
-        vector<int> path;
-        for(int i = end;i != -1;i = pre[i]) path.push_back(i);
-        int sz = path.size();
-        for(int i = sz-1;i > 0;i--){
-            int s = (i == sz - 1) ? i : i+1;
-            while(i > 0 && (i == sz - 1 || line[path[i]] == line[path[i-1]])) i--;
-            printf("Take Line#%d from %04d to %04d\n",line[path[s == sz - 1 ? s-1 : s]],path[s],path[i]);
+        vector<int> vc;
+        for(int i = end;i != start;i = pre[i]) vc.push_back(i);
+        int sz = vc.size(),x = sz - 1;
+        while(x > 0 && line[vc[x]] == line[vc[x-1]]) x--;
+        printf("Take Line#%d from %04d to %04d\n",line[vc[x]],start,vc[x]);
+        while(x-- > 0){
+            int sl = x+1;
+            while(x > 0 && line[vc[x]] == line[vc[x-1]]) x--;
+            printf("Take Line#%d from %04d to %04d\n",line[vc[x]],vc[sl],vc[x]);
         }
     }
     return 0;
