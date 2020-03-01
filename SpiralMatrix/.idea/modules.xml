@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PatJudge.iml" filepath="$PROJECT_DIR$/.idea/PatJudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpiralMatrix.iml" filepath="$PROJECT_DIR$/.idea/SpiralMatrix.iml" />
     </modules>
   </component>
 </project>
